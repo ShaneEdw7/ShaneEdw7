@@ -8,11 +8,22 @@
 
 ### About Me
 
-I am a current Software Development student at Get Coding. I have successfully completed my first module and created my first project using HTML, CSS, and JavaScript. My first project is a JavaScript implementation of the abstract board game Onitama. The game allows two players to engage in a strategic battle on a 5x5 grid, using movement cards that determine the available moves for their pieces. The game features a user-friendly interface and provides helpful strategy tips to enhance the gaming experience. Check out the live link below.
+I am a current Software Development student at Get Coding. I have successfully completed my first module and created my first project using HTML, CSS, and JavaScript. My first project is a JavaScript implementation of the abstract board game Onitama. The game allows two players to engage in a strategic battle on a 5x5 grid, using movement cards that determine the available moves for their pieces. The game features a user-friendly interface and provides helpful strategy tips to enhance the gaming experience. 
+
+Check out the live link below:
 
 Onitama Clone: https://shaneedw7.github.io/Onitama-Clone/
 
-***
+Video Demo:
+
+<div>
+    <a href="https://www.loom.com/share/c0b48dc56f504d3892ebb9d28279a7ce">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c0b48dc56f504d3892ebb9d28279a7ce-with-play.gif">
+    </a>
+     <a href="https://www.loom.com/share/c0b48dc56f504d3892ebb9d28279a7ce">
+      <p>Onitama Clone - Video Demo</p>
+    </a>
+</div>
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/shaneedw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
