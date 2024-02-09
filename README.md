@@ -44,7 +44,7 @@ Video Demo:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding: 5px;" /> 
   </a>
   
-<a href="[https://www.w3schools.com/js/](https://www.w3schools.com/bootstrap5/index.php)" target="_blank"> 
+<a href="https://www.w3schools.com/bootstrap5/index.php" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" style="padding: 5px;" /> 
   </a> 
 </p>
